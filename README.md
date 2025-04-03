@@ -1,0 +1,20 @@
+일 2-3문제씩
+Programmers(https://programmers.co.kr/), BOJ(https://www.acmicpc.net/) 이용
+
+## 폴더 구조
+- 사이트 별 폴더와 풀이 저장 형식 레벨_문제.언어
+EX) 
+  [GIT] Algorithm
+    📄 README.md GUIDE
+    📂 programmers
+      📄 LEVELi_problemNum
+    
+## 진행 현황  
+LEVEL 0은 기록하지 않음
+LEVEL 1 JAVA (7/86)
+
+## 사용 언어  
+- Java
+
+
+풀이 외에 어떻게 기록해두어야 문제풀이 코드에 대한 생각까지 정리할 수 있을지 고민 중
