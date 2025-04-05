@@ -3,9 +3,6 @@
 class Solution {
     public long solution(int a, int b) {
         long answer = 0;
-        int a = 3;
-        int b = 5;
-
         if (a <= b) {
             for (int i = a; i <= b; i++)
                 answer += i;
@@ -15,6 +12,5 @@ class Solution {
         }
 
         return answer;
-        System.out.printLn(answer);
     }
 }
