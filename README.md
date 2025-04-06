@@ -1,4 +1,4 @@
-일 2-3문제씩
+
 Programmers(https://programmers.co.kr/), BOJ(https://www.acmicpc.net/) 이용
 
 ## 폴더 구조
@@ -11,7 +11,7 @@ EX)
     
 ## 진행 현황  
 LEVEL 0은 기록하지 않음
-LEVEL 1 JAVA (11/86) - 25.4.5.
+LEVEL 1 JAVA (12/86) - 25.4.5.
   - 12933 모르겠음
 
 ## 사용 언어  
