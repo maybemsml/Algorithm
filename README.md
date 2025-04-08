@@ -9,10 +9,16 @@ EX)
     📂 programmers
       📄 LEVELi_problemNum
     
-## 진행 현황  
+## 진행 현황
+
+# Programmers
 LEVEL 0은 기록하지 않음
 LEVEL 1 JAVA (12/86) - 25.4.5.
   - 12933 모르겠음
+
+# BOJ
+아이디를.. 못찾겠어서 복습 겸 처음부터
+
 
 ## 사용 언어  
 - Java
