@@ -1,6 +1,6 @@
 // 문자열 내 p와 y의 개수
 
-class Solution {
+class level1_12916 {
     boolean solution(String s) {
         boolean answer = true;
         s = s.toLowerCase();

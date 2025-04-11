@@ -1,7 +1,7 @@
 // A+B
 import java.util.Scanner;
 
-public class Main {
+public class boj_1000 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 		int A = scan.nextInt();

@@ -1,6 +1,6 @@
 // 약수의 합
 
-class Solution {
+class level1_12928 {
     public int solution(int n) {
                 int sum = 0;
         
@@ -14,7 +14,7 @@ class Solution {
     }
     
     public static void main(String[] args) {
-        Solution sol = new Solution();
+        level1_12928 sol = new level1_12928();
         System.out.println(sol.solution(12)); 
         System.out.println(sol.solution(5));  
     }

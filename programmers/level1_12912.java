@@ -1,6 +1,6 @@
 // 두 정수 사이의 합
 
-class Solution {
+class level1_12912 {
     public long solution(int a, int b) {
         long answer = 0;
         if (a <= b) {

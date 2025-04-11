@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Solution {
+public class level1_12931 {
     public int solution(int n) {
         int answer = 0;
             
