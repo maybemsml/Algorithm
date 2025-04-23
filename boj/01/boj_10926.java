@@ -11,5 +11,7 @@ public class boj_10926 {
 
         System.out.println(id+suprised);
 
+        scan.close();
+
     }
 }

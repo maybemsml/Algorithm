@@ -12,5 +12,7 @@ public class boj_1008 {
         if(0<A && B<10){
             System.out.println(A/B);
         }
+
+        scan.close();
     }
 }

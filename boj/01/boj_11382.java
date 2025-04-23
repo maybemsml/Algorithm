@@ -10,5 +10,7 @@ public class boj_11382 {
 		long c = scan.nextLong();
         
 		System.out.println(a+b+c);
+		
+		scan.close();
 	}
 }

@@ -11,5 +11,6 @@ public class boj_2588 {
 		System.out.println((b / 100) * a);
 		System.out.println(a * b);
 		
+		scan.close();
 	}
 }

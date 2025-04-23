@@ -16,5 +16,7 @@ public class boj_10869 {
             System.out.println(A/B);
             System.out.println(A%B);
         }
+
+        scan.close();
     }
 }

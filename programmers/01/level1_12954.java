@@ -1,4 +1,4 @@
-// x만큼 간격이 있는 n개의 숫자
+
 
 class level1_12954 {
     public long[] solution(int x, int n) {

@@ -1,4 +1,4 @@
-// 제출내역
+
 
 class level1_12944 {
     public double solution(int[] arr) {

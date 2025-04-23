@@ -1,3 +1,4 @@
+
 // 없는 숫자 더하기
 class level1_86051 {
     public int solution(int[] numbers) {
