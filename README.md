@@ -5,13 +5,21 @@ Programmers(https://programmers.co.kr/), BOJ(https://www.acmicpc.net/) 이용
 - 사이트 별 폴더와 풀이 저장 형식 레벨_문제.언어 <br>
 EX) <br>
   [GIT] Algorithm <br>
+
     📄 README.md GUIDE <br>
+
     📂 programmers <br>
+
       📂 i <br>
+
         📄 LEVELi_problemNum <br>
+
     📂 boj <br>    
+
       📂 i (단계)
+
         📄 boj_problemNum<br>
+        
 ## 진행 현황
 
 ### Programmers
