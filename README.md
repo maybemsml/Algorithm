@@ -4,22 +4,22 @@ Programmers(https://programmers.co.kr/), BOJ(https://www.acmicpc.net/) 이용
 ## 폴더 구조
 - 사이트 별 폴더와 풀이 저장 형식 레벨_문제.언어 <br>
 EX) <br>
-  [GIT] Algorithm <br>
-
-    📄 README.md GUIDE <br>
-
-    📂 programmers <br>
-
-      📂 i <br>
-
-        📄 LEVELi_problemNum <br>
-
-    📂 boj <br>    
-
-      📂 i (단계)
-
-        📄 boj_problemNum<br>
+  [GIT] Algorithm
+  
+    📄 README.md GUIDE 
+    
+    📂 programmers 
+                    
+      📂 i 
+      
+        📄 LEVELi_problemNum 
         
+    📂 boj 
+  
+      📂 i (단계)
+  
+        📄 boj_problemNum
+  
 ## 진행 현황
 
 ### Programmers
@@ -33,7 +33,7 @@ EX) <br>
   제출 시 클래스 이름 Main <br>
 <p>
   입출력과 사칙연산 13/13<br>
-  조건문 3/7<br>
+  조건문 4/7<br>
 
 
 ### 사용 언어  <br>
