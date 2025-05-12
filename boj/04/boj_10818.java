@@ -11,6 +11,7 @@ public class boj_10818 {
         for(int i=0; i<n; i++){
             arr[i] = scan.nextInt();
         }
+        scan.close();
 
         Arrays.sort(arr);
         System.out.println(arr[0] + " " + arr[n-1]);
