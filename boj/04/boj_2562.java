@@ -16,6 +16,7 @@ public class boj_2562 {
                 index = i;
             }
         }
+        scan.close();
         System.out.println(max);
         System.out.println(index+1);
     }
