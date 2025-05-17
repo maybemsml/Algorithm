@@ -5,7 +5,7 @@ public class boj_10811 {
 		 Scanner scan = new Scanner(System.in);
 		 int n = scan.nextInt();
 		 int m = scan.nextInt();
-		 int cnt =0;
+		 int count =0;
 		 int arr[] = new int[n];
 		 
 		 for(int i = 0; i<arr.length; i++) {
@@ -19,16 +19,16 @@ public class boj_10811 {
 			 b=b-1;
 			 
 			 while(b>a) {
-			 cnt = arr[a];
+			 count=arr[a];
 			 arr[a]=arr[b];
-			 arr[b]=cnt;
+			 arr[b]=count;
 			 b--;
 			 a++;
 			 }
 		 }
 		 
          scan.close();
-         
+
 		 for(int i = 0; i<arr.length; i++) {
 			 System.out.print(arr[i] + " ");
 		 }			 
