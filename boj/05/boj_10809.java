@@ -10,7 +10,8 @@ public class boj_10809 {
 		}
  
 		String str = scan.next();
- 
+		scan.close();
+		
 		for(int i = 0; i < str.length(); i++) {
 			char ch = str.charAt(i);
     
