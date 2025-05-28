@@ -7,8 +7,7 @@ public class boj_5086 {
         while(true){
             int one = scan.nextInt();
             int two = scan.nextInt();
-            scan.close();
- 
+            
             if(one == 0 && two == 0){
                 break;
             } else if (two%one == 0) {
@@ -20,6 +19,7 @@ public class boj_5086 {
                 System.out.println("neither");
             }
         }
+        scan.close();
  
     }
 }
